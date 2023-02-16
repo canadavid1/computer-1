@@ -1,7 +1,7 @@
 # Assembly code and assembler
 This directory contains various assembly programs, and the corresponding assembler.
 ## Programmer's model
-The machine is outwardly a RISC mahcine with 15 hardware 16-bit registers, and (for now) 4081 16-bit words of memory.
+The machine is outwardly a RISC mahcine with 15 hardware 16-bit registers, and (for now) 4081 16-bit words of memory. Register zero is permanently 0.
 
 Almost all operations are register-agnostic, with the exception of `jal`, which jumps to the specified location and stores the return address in r15. Avaliable operations are:
 
@@ -23,7 +23,20 @@ Avaliable operations are:
 
 - `in/out ra,p` - takes input (output) from port `p` into register `ra`
 
-- `skp len,#COND` - skips the next `len` bytes depending on flag condition. Len may currently be one of `1` and `2`.
-## On `skp` encoding
+- `skp len,#COND` - skips the next `len` bytes depending on flag condition. Len may currently be one of `1` and `2`
+
+There are also several pseudo-instructins:
+
+- `add/sub/adc/sbc/and/xor rd,y/#imm` - `rx`=`rd`
+
+- `addis/subis rd,#imm` - `rx`=`rd`
+
+- `li rd,#val` - `add rd,r0,#val`
+
+- `jr ra` - `jal rd,r0`
+
+- `ret` - `jal r15,r0`
+
+### On `skp` encoding
 The `skp` instruction may branch on any combination of `Z`, `N`, and `C`. The control bits multiplex from the 8 bits in `COND`, and branches if corresponding bit is `1`.
 
