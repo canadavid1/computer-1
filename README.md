@@ -11,4 +11,6 @@ Kicad files for all the PCB's used in the project.
 Assorted assembly programs, and the corresponding compiler.
 ### Emulator
 Different levels of emulator for the system.
+### Ideas
+Ideas for further improvement or additions to the system.
 
