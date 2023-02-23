@@ -1,0 +1,767 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 3 5
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Transistor_FET:2N7002 Q?
+U 1 1 632F4BFC
+P 3500 3300
+AR Path="/632F4BFC" Ref="Q?"  Part="1" 
+AR Path="/632AA7D0/632F4BFC" Ref="Q204"  Part="1" 
+AR Path="/632F052F/632F4BFC" Ref="Q?"  Part="1" 
+AR Path="/632F46AE/632F4BFC" Ref="Q304"  Part="1" 
+F 0 "Q304" H 3705 3300 50  0000 L CNN
+F 1 "2N7002" H 3704 3255 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 3700 3225 50  0001 L CIN
+F 3 "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF" H 3500 3300 50  0001 L CNN
+	1    3500 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_FET:2N7002 Q?
+U 1 1 632FA45F
+P 4100 3300
+AR Path="/632FA45F" Ref="Q?"  Part="1" 
+AR Path="/632AA7D0/632FA45F" Ref="Q205"  Part="1" 
+AR Path="/632F052F/632FA45F" Ref="Q?"  Part="1" 
+AR Path="/632F46AE/632FA45F" Ref="Q305"  Part="1" 
+F 0 "Q305" H 4305 3300 50  0000 L CNN
+F 1 "2N7002" H 4304 3255 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 4300 3225 50  0001 L CIN
+F 3 "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF" H 4100 3300 50  0001 L CNN
+	1    4100 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_FET:2N7002 Q?
+U 1 1 632FA460
+P 6250 3300
+AR Path="/632FA460" Ref="Q?"  Part="1" 
+AR Path="/632AA7D0/632FA460" Ref="Q210"  Part="1" 
+AR Path="/632F052F/632FA460" Ref="Q?"  Part="1" 
+AR Path="/632F46AE/632FA460" Ref="Q310"  Part="1" 
+F 0 "Q310" H 6455 3300 50  0000 L CNN
+F 1 "2N7002" H 6454 3255 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 6450 3225 50  0001 L CIN
+F 3 "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF" H 6250 3300 50  0001 L CNN
+	1    6250 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_FET:2N7002 Q?
+U 1 1 632B8244
+P 6850 3300
+AR Path="/632B8244" Ref="Q?"  Part="1" 
+AR Path="/632AA7D0/632B8244" Ref="Q211"  Part="1" 
+AR Path="/632F052F/632B8244" Ref="Q?"  Part="1" 
+AR Path="/632F46AE/632B8244" Ref="Q311"  Part="1" 
+F 0 "Q311" H 7055 3300 50  0000 L CNN
+F 1 "2N7002" H 7054 3255 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 7050 3225 50  0001 L CIN
+F 3 "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF" H 6850 3300 50  0001 L CNN
+	1    6850 3300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3900 3300 3900 3050
+Wire Wire Line
+	4200 3100 4200 2950
+Wire Wire Line
+	3300 2950 3300 3300
+$Comp
+L Transistor_FET:2N7002 Q?
+U 1 1 632B824D
+P 1750 3300
+AR Path="/632B824D" Ref="Q?"  Part="1" 
+AR Path="/632AA7D0/632B824D" Ref="Q201"  Part="1" 
+AR Path="/632F052F/632B824D" Ref="Q?"  Part="1" 
+AR Path="/632F46AE/632B824D" Ref="Q301"  Part="1" 
+F 0 "Q301" H 1955 3300 50  0000 L CNN
+F 1 "2N7002" H 1954 3255 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 1950 3225 50  0001 L CIN
+F 3 "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF" H 1750 3300 50  0001 L CNN
+	1    1750 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_FET:2N7002 Q?
+U 1 1 632F4C01
+P 2350 3300
+AR Path="/632F4C01" Ref="Q?"  Part="1" 
+AR Path="/632AA7D0/632F4C01" Ref="Q202"  Part="1" 
+AR Path="/632F052F/632F4C01" Ref="Q?"  Part="1" 
+AR Path="/632F46AE/632F4C01" Ref="Q302"  Part="1" 
+F 0 "Q302" H 2555 3300 50  0000 L CNN
+F 1 "2N7002" H 2554 3255 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 2550 3225 50  0001 L CIN
+F 3 "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF" H 2350 3300 50  0001 L CNN
+	1    2350 3300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3600 3100 3600 3050
+Wire Wire Line
+	3600 3050 3900 3050
+Wire Wire Line
+	6350 3050 6350 3100
+Wire Wire Line
+	6650 3050 6650 3300
+Wire Wire Line
+	6050 3300 6050 2950
+Wire Wire Line
+	6050 2950 6950 2950
+Wire Wire Line
+	6950 2950 6950 3100
+$Comp
+L Transistor_FET:2N7002 Q?
+U 1 1 632F4EC8
+P 2350 3700
+AR Path="/632F4EC8" Ref="Q?"  Part="1" 
+AR Path="/632AA7D0/632F4EC8" Ref="Q203"  Part="1" 
+AR Path="/632F052F/632F4EC8" Ref="Q?"  Part="1" 
+AR Path="/632F46AE/632F4EC8" Ref="Q303"  Part="1" 
+F 0 "Q303" H 2555 3700 50  0000 L CNN
+F 1 "2N7002" H 2554 3655 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 2550 3625 50  0001 L CIN
+F 3 "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF" H 2350 3700 50  0001 L CNN
+	1    2350 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 632F4C03
+P 1850 3650
+AR Path="/632F4C03" Ref="D?"  Part="1" 
+AR Path="/632AA7D0/632F4C03" Ref="D201"  Part="1" 
+AR Path="/632F052F/632F4C03" Ref="D?"  Part="1" 
+AR Path="/632F46AE/632F4C03" Ref="D301"  Part="1" 
+F 0 "D301" H 1850 3867 50  0001 C CNN
+F 1 "D" H 1850 3776 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-323" H 1850 3650 50  0001 C CNN
+F 3 "~" H 1850 3650 50  0001 C CNN
+	1    1850 3650
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2150 3800 2150 3700
+Connection ~ 1850 3800
+Wire Wire Line
+	1850 3800 2150 3800
+$Comp
+L power:GND #PWR?
+U 1 1 632B826F
+P 4200 3500
+AR Path="/632B826F" Ref="#PWR?"  Part="1" 
+AR Path="/632AA7D0/632B826F" Ref="#PWR0203"  Part="1" 
+AR Path="/632F052F/632B826F" Ref="#PWR?"  Part="1" 
+AR Path="/632F46AE/632B826F" Ref="#PWR0303"  Part="1" 
+F 0 "#PWR0303" H 4200 3250 50  0001 C CNN
+F 1 "GND" H 4205 3327 50  0001 C CNN
+F 2 "" H 4200 3500 50  0001 C CNN
+F 3 "" H 4200 3500 50  0001 C CNN
+	1    4200 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 632B8275
+P 3600 3500
+AR Path="/632B8275" Ref="#PWR?"  Part="1" 
+AR Path="/632AA7D0/632B8275" Ref="#PWR0202"  Part="1" 
+AR Path="/632F052F/632B8275" Ref="#PWR?"  Part="1" 
+AR Path="/632F46AE/632B8275" Ref="#PWR0302"  Part="1" 
+F 0 "#PWR0302" H 3600 3250 50  0001 C CNN
+F 1 "GND" H 3605 3327 50  0001 C CNN
+F 2 "" H 3600 3500 50  0001 C CNN
+F 3 "" H 3600 3500 50  0001 C CNN
+	1    3600 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 632B827B
+P 6950 3500
+AR Path="/632B827B" Ref="#PWR?"  Part="1" 
+AR Path="/632AA7D0/632B827B" Ref="#PWR0208"  Part="1" 
+AR Path="/632F052F/632B827B" Ref="#PWR?"  Part="1" 
+AR Path="/632F46AE/632B827B" Ref="#PWR0308"  Part="1" 
+F 0 "#PWR0308" H 6950 3250 50  0001 C CNN
+F 1 "GND" H 6955 3327 50  0001 C CNN
+F 2 "" H 6950 3500 50  0001 C CNN
+F 3 "" H 6950 3500 50  0001 C CNN
+	1    6950 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 632FA469
+P 6350 3500
+AR Path="/632FA469" Ref="#PWR?"  Part="1" 
+AR Path="/632AA7D0/632FA469" Ref="#PWR0207"  Part="1" 
+AR Path="/632F052F/632FA469" Ref="#PWR?"  Part="1" 
+AR Path="/632F46AE/632FA469" Ref="#PWR0307"  Part="1" 
+F 0 "#PWR0307" H 6350 3250 50  0001 C CNN
+F 1 "GND" H 6355 3327 50  0001 C CNN
+F 2 "" H 6350 3500 50  0001 C CNN
+F 3 "" H 6350 3500 50  0001 C CNN
+	1    6350 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 632FA46A
+P 2450 3900
+AR Path="/632FA46A" Ref="#PWR?"  Part="1" 
+AR Path="/632AA7D0/632FA46A" Ref="#PWR0201"  Part="1" 
+AR Path="/632F052F/632FA46A" Ref="#PWR?"  Part="1" 
+AR Path="/632F46AE/632FA46A" Ref="#PWR0301"  Part="1" 
+F 0 "#PWR0301" H 2450 3650 50  0001 C CNN
+F 1 "GND" H 2455 3727 50  0001 C CNN
+F 2 "" H 2450 3900 50  0001 C CNN
+F 3 "" H 2450 3900 50  0001 C CNN
+	1    2450 3900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3600 3050 2900 3050
+Wire Wire Line
+	2450 3050 2450 3100
+Connection ~ 3600 3050
+Wire Wire Line
+	1850 3100 1850 2950
+Wire Wire Line
+	1850 2950 3100 2950
+Connection ~ 3300 2950
+Wire Wire Line
+	2150 3300 2150 3050
+Wire Wire Line
+	2150 3050 1550 3050
+Wire Wire Line
+	1550 3050 1550 3300
+Wire Wire Line
+	1300 3050 1550 3050
+Connection ~ 1550 3050
+$Comp
+L Transistor_FET:2N7002 Q?
+U 1 1 632FA46B
+P 7500 3300
+AR Path="/632FA46B" Ref="Q?"  Part="1" 
+AR Path="/632AA7D0/632FA46B" Ref="Q212"  Part="1" 
+AR Path="/632F052F/632FA46B" Ref="Q?"  Part="1" 
+AR Path="/632F46AE/632FA46B" Ref="Q312"  Part="1" 
+F 0 "Q312" H 7705 3300 50  0000 L CNN
+F 1 "2N7002" H 7704 3255 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 7700 3225 50  0001 L CIN
+F 3 "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF" H 7500 3300 50  0001 L CNN
+	1    7500 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 632FA46C
+P 7600 3500
+AR Path="/632FA46C" Ref="#PWR?"  Part="1" 
+AR Path="/632AA7D0/632FA46C" Ref="#PWR0210"  Part="1" 
+AR Path="/632F052F/632FA46C" Ref="#PWR?"  Part="1" 
+AR Path="/632F46AE/632FA46C" Ref="#PWR0310"  Part="1" 
+F 0 "#PWR0310" H 7600 3250 50  0001 C CNN
+F 1 "GND" H 7605 3327 50  0001 C CNN
+F 2 "" H 7600 3500 50  0001 C CNN
+F 3 "" H 7600 3500 50  0001 C CNN
+	1    7600 3500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7300 3300 7300 2950
+Wire Wire Line
+	7300 2950 6950 2950
+Connection ~ 6950 2950
+$Comp
+L Device:LED D?
+U 1 1 632F4ED1
+P 7600 2600
+AR Path="/632F4ED1" Ref="D?"  Part="1" 
+AR Path="/632AA7D0/632F4ED1" Ref="D206"  Part="1" 
+AR Path="/632F052F/632F4ED1" Ref="D?"  Part="1" 
+AR Path="/632F46AE/632F4ED1" Ref="D306"  Part="1" 
+F 0 "D306" V 7639 2482 50  0000 R CNN
+F 1 "LED" V 7548 2482 50  0000 R CNN
+F 2 "LED_SMD:LED_0603_1608Metric_Castellated" H 7600 2600 50  0001 C CNN
+F 3 "~" H 7600 2600 50  0001 C CNN
+	1    7600 2600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7600 3100 7600 2750
+Text Label 1450 3800 2    50   ~ 0
+B0
+Wire Wire Line
+	1450 3800 1850 3800
+$Comp
+L Transistor_FET:2N7002 Q?
+U 1 1 632F4C0C
+P 4950 3300
+AR Path="/632F4C0C" Ref="Q?"  Part="1" 
+AR Path="/632AA7D0/632F4C0C" Ref="Q206"  Part="1" 
+AR Path="/632F052F/632F4C0C" Ref="Q?"  Part="1" 
+AR Path="/632F46AE/632F4C0C" Ref="Q306"  Part="1" 
+F 0 "Q306" H 5155 3300 50  0000 L CNN
+F 1 "2N7002" H 5154 3255 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 5150 3225 50  0001 L CIN
+F 3 "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF" H 4950 3300 50  0001 L CNN
+	1    4950 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_FET:2N7002 Q?
+U 1 1 632F4C0D
+P 5550 3300
+AR Path="/632F4C0D" Ref="Q?"  Part="1" 
+AR Path="/632AA7D0/632F4C0D" Ref="Q208"  Part="1" 
+AR Path="/632F052F/632F4C0D" Ref="Q?"  Part="1" 
+AR Path="/632F46AE/632F4C0D" Ref="Q308"  Part="1" 
+F 0 "Q308" H 5755 3300 50  0000 L CNN
+F 1 "2N7002" H 5754 3255 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 5750 3225 50  0001 L CIN
+F 3 "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF" H 5550 3300 50  0001 L CNN
+	1    5550 3300
+	1    0    0    -1  
+$EndComp
+Connection ~ 4200 2950
+Wire Wire Line
+	3300 2950 4200 2950
+$Comp
+L Transistor_FET:2N7002 Q?
+U 1 1 632F4C0E
+P 4950 3700
+AR Path="/632F4C0E" Ref="Q?"  Part="1" 
+AR Path="/632AA7D0/632F4C0E" Ref="Q207"  Part="1" 
+AR Path="/632F052F/632F4C0E" Ref="Q?"  Part="1" 
+AR Path="/632F46AE/632F4C0E" Ref="Q307"  Part="1" 
+F 0 "Q307" H 5155 3700 50  0000 L CNN
+F 1 "2N7002" H 5154 3655 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 5150 3625 50  0001 L CIN
+F 3 "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF" H 4950 3700 50  0001 L CNN
+	1    4950 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_FET:2N7002 Q?
+U 1 1 632F4C0F
+P 5550 3700
+AR Path="/632F4C0F" Ref="Q?"  Part="1" 
+AR Path="/632AA7D0/632F4C0F" Ref="Q209"  Part="1" 
+AR Path="/632F052F/632F4C0F" Ref="Q?"  Part="1" 
+AR Path="/632F46AE/632F4C0F" Ref="Q309"  Part="1" 
+F 0 "Q309" H 5755 3700 50  0000 L CNN
+F 1 "2N7002" H 5754 3655 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 5750 3625 50  0001 L CIN
+F 3 "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF" H 5550 3700 50  0001 L CNN
+	1    5550 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 632F4C10
+P 5650 3900
+AR Path="/632F4C10" Ref="#PWR?"  Part="1" 
+AR Path="/632AA7D0/632F4C10" Ref="#PWR0206"  Part="1" 
+AR Path="/632F052F/632F4C10" Ref="#PWR?"  Part="1" 
+AR Path="/632F46AE/632F4C10" Ref="#PWR0306"  Part="1" 
+F 0 "#PWR0306" H 5650 3650 50  0001 C CNN
+F 1 "GND" H 5655 3727 50  0001 C CNN
+F 2 "" H 5650 3900 50  0001 C CNN
+F 3 "" H 5650 3900 50  0001 C CNN
+	1    5650 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 632F4C11
+P 5050 3900
+AR Path="/632F4C11" Ref="#PWR?"  Part="1" 
+AR Path="/632AA7D0/632F4C11" Ref="#PWR0204"  Part="1" 
+AR Path="/632F052F/632F4C11" Ref="#PWR?"  Part="1" 
+AR Path="/632F46AE/632F4C11" Ref="#PWR0304"  Part="1" 
+F 0 "#PWR0304" H 5050 3650 50  0001 C CNN
+F 1 "GND" H 5055 3727 50  0001 C CNN
+F 2 "" H 5050 3900 50  0001 C CNN
+F 3 "" H 5050 3900 50  0001 C CNN
+	1    5050 3900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4600 4100 4750 4100
+Wire Wire Line
+	4750 4100 4750 3700
+Wire Wire Line
+	4750 4100 5350 4100
+Wire Wire Line
+	5350 4100 5350 3700
+Connection ~ 4750 4100
+Wire Wire Line
+	4750 3300 4750 3050
+Wire Wire Line
+	4750 3050 4600 3050
+Connection ~ 3900 3050
+Wire Wire Line
+	5350 2950 5350 3300
+Wire Wire Line
+	5050 3100 5050 3050
+Wire Wire Line
+	4500 3050 4600 2950
+Connection ~ 6050 2950
+Wire Wire Line
+	5650 3100 5650 2950
+Wire Wire Line
+	4500 2950 4600 3050
+Connection ~ 6350 3050
+Wire Wire Line
+	4600 2950 5350 2950
+$Comp
+L Device:D D?
+U 1 1 632F4C12
+P 2900 3500
+AR Path="/632F4C12" Ref="D?"  Part="1" 
+AR Path="/632AA7D0/632F4C12" Ref="D202"  Part="1" 
+AR Path="/632F052F/632F4C12" Ref="D?"  Part="1" 
+AR Path="/632F46AE/632F4C12" Ref="D302"  Part="1" 
+F 0 "D302" H 2900 3717 50  0001 C CNN
+F 1 "D" H 2900 3626 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-323" H 2900 3500 50  0001 C CNN
+F 3 "~" H 2900 3500 50  0001 C CNN
+	1    2900 3500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 632F4C13
+P 3100 3500
+AR Path="/632F4C13" Ref="D?"  Part="1" 
+AR Path="/632AA7D0/632F4C13" Ref="D203"  Part="1" 
+AR Path="/632F052F/632F4C13" Ref="D?"  Part="1" 
+AR Path="/632F46AE/632F4C13" Ref="D303"  Part="1" 
+F 0 "D303" H 3100 3717 50  0001 C CNN
+F 1 "D" H 3100 3626 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-323" H 3100 3500 50  0001 C CNN
+F 3 "~" H 3100 3500 50  0001 C CNN
+	1    3100 3500
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2900 3350 2900 3050
+Connection ~ 2900 3050
+Wire Wire Line
+	2900 3050 2450 3050
+Wire Wire Line
+	3100 3350 3100 2950
+Connection ~ 3100 2950
+Wire Wire Line
+	3100 2950 3300 2950
+Wire Wire Line
+	2900 3650 3000 3650
+Wire Wire Line
+	2900 3750 3000 3750
+Wire Wire Line
+	3000 3750 3000 3650
+Connection ~ 3000 3650
+Wire Wire Line
+	3000 3650 3100 3650
+$Comp
+L Device:R_Pack04 RN?
+U 1 1 632F4C14
+P 5300 2100
+AR Path="/632F4C14" Ref="RN?"  Part="1" 
+AR Path="/632AA7D0/632F4C14" Ref="RN201"  Part="1" 
+AR Path="/632F052F/632F4C14" Ref="RN?"  Part="1" 
+AR Path="/632F46AE/632F4C14" Ref="RN301"  Part="1" 
+F 0 "RN301" H 5488 2146 50  0000 L CNN
+F 1 "R_Pack04" H 5488 2055 50  0000 L CNN
+F 2 "Resistor_SMD:R_Array_Convex_4x1206" V 5575 2100 50  0001 C CNN
+F 3 "~" H 5300 2100 50  0001 C CNN
+	1    5300 2100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5100 1900 5200 1900
+Connection ~ 5200 1900
+Wire Wire Line
+	5200 1900 5250 1900
+Connection ~ 5300 1900
+Wire Wire Line
+	5300 1900 5400 1900
+$Comp
+L power:VCC #PWR?
+U 1 1 632F4C15
+P 5250 1900
+AR Path="/632F4C15" Ref="#PWR?"  Part="1" 
+AR Path="/632AA7D0/632F4C15" Ref="#PWR0205"  Part="1" 
+AR Path="/632F052F/632F4C15" Ref="#PWR?"  Part="1" 
+AR Path="/632F46AE/632F4C15" Ref="#PWR0305"  Part="1" 
+F 0 "#PWR0305" H 5250 1750 50  0001 C CNN
+F 1 "VCC" H 5265 2073 50  0000 C CNN
+F 2 "" H 5250 1900 50  0001 C CNN
+F 3 "" H 5250 1900 50  0001 C CNN
+	1    5250 1900
+	1    0    0    -1  
+$EndComp
+Connection ~ 5250 1900
+Wire Wire Line
+	5250 1900 5300 1900
+$Comp
+L Device:D D?
+U 1 1 632F4C16
+P 6050 4350
+AR Path="/632F4C16" Ref="D?"  Part="1" 
+AR Path="/632AA7D0/632F4C16" Ref="D205"  Part="1" 
+AR Path="/632F052F/632F4C16" Ref="D?"  Part="1" 
+AR Path="/632F46AE/632F4C16" Ref="D305"  Part="1" 
+F 0 "D305" H 6050 4567 50  0001 C CNN
+F 1 "D" H 6050 4476 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-323" H 6050 4350 50  0001 C CNN
+F 3 "~" H 6050 4350 50  0001 C CNN
+	1    6050 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 632F4C17
+P 3300 4350
+AR Path="/632F4C17" Ref="D?"  Part="1" 
+AR Path="/632AA7D0/632F4C17" Ref="D204"  Part="1" 
+AR Path="/632F052F/632F4C17" Ref="D?"  Part="1" 
+AR Path="/632F46AE/632F4C17" Ref="D304"  Part="1" 
+F 0 "D304" H 3300 4567 50  0001 C CNN
+F 1 "D" H 3300 4476 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-323" H 3300 4350 50  0001 C CNN
+F 3 "~" H 3300 4350 50  0001 C CNN
+	1    3300 4350
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6050 4200 6050 3300
+Connection ~ 6050 3300
+Wire Wire Line
+	5650 2950 6050 2950
+Wire Wire Line
+	3300 4200 3300 3300
+Connection ~ 3300 3300
+Wire Wire Line
+	6050 4500 3300 4500
+Wire Wire Line
+	3100 4500 3300 4500
+Connection ~ 3300 4500
+$Comp
+L power:Vdrive #PWR?
+U 1 1 632F4C18
+P 7600 2150
+AR Path="/632F4C18" Ref="#PWR?"  Part="1" 
+AR Path="/632AA7D0/632F4C18" Ref="#PWR0209"  Part="1" 
+AR Path="/632F052F/632F4C18" Ref="#PWR?"  Part="1" 
+AR Path="/632F46AE/632F4C18" Ref="#PWR0309"  Part="1" 
+F 0 "#PWR0309" H 7400 2000 50  0001 C CNN
+F 1 "Vdrive" H 7615 2323 50  0000 C CNN
+F 2 "" H 7600 2150 50  0001 C CNN
+F 3 "" H 7600 2150 50  0001 C CNN
+	1    7600 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_FET:2N7002 Q?
+U 1 1 632F4EDF
+P 8650 3450
+AR Path="/632F4EDF" Ref="Q?"  Part="1" 
+AR Path="/632AA7D0/632F4EDF" Ref="Q214"  Part="1" 
+AR Path="/632F052F/632F4EDF" Ref="Q?"  Part="1" 
+AR Path="/632F46AE/632F4EDF" Ref="Q314"  Part="1" 
+F 0 "Q314" H 8855 3450 50  0000 L CNN
+F 1 "2N7002" H 8854 3405 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 8850 3375 50  0001 L CIN
+F 3 "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF" H 8650 3450 50  0001 L CNN
+	1    8650 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_FET:2N7002 Q?
+U 1 1 632F4EE0
+P 8650 3050
+AR Path="/632F4EE0" Ref="Q?"  Part="1" 
+AR Path="/632AA7D0/632F4EE0" Ref="Q213"  Part="1" 
+AR Path="/632F052F/632F4EE0" Ref="Q?"  Part="1" 
+AR Path="/632F46AE/632F4EE0" Ref="Q313"  Part="1" 
+F 0 "Q313" H 8855 3050 50  0000 L CNN
+F 1 "2N7002" H 8854 3005 50  0001 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 8850 2975 50  0001 L CIN
+F 3 "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF" H 8650 3050 50  0001 L CNN
+	1    8650 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 632F4EE1
+P 8750 3650
+AR Path="/632F4EE1" Ref="#PWR?"  Part="1" 
+AR Path="/632AA7D0/632F4EE1" Ref="#PWR0211"  Part="1" 
+AR Path="/632F052F/632F4EE1" Ref="#PWR?"  Part="1" 
+AR Path="/632F46AE/632F4EE1" Ref="#PWR0311"  Part="1" 
+F 0 "#PWR0311" H 8750 3400 50  0001 C CNN
+F 1 "GND" H 8755 3477 50  0001 C CNN
+F 2 "" H 8750 3650 50  0001 C CNN
+F 3 "" H 8750 3650 50  0001 C CNN
+	1    8750 3650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6350 3050 6650 3050
+Connection ~ 6650 3050
+Text Label 8750 2850 1    50   ~ 0
+B0'
+Wire Wire Line
+	6650 3050 8450 3050
+$Comp
+L Connector:TestPoint TP?
+U 1 1 632F4EE2
+P 6500 2500
+AR Path="/632F4EE2" Ref="TP?"  Part="1" 
+AR Path="/632AA7D0/632F4EE2" Ref="TP202"  Part="1" 
+AR Path="/632F052F/632F4EE2" Ref="TP?"  Part="1" 
+AR Path="/632F46AE/632F4EE2" Ref="TP302"  Part="1" 
+F 0 "TP302" V 6500 2688 50  0000 L CNN
+F 1 " " H 6558 2527 50  0001 L CNN
+F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 6700 2500 50  0001 C CNN
+F 3 "~" H 6700 2500 50  0001 C CNN
+	1    6500 2500
+	0    1    1    0   
+$EndComp
+Text Label 6500 2500 2    50   ~ 0
+B0'
+$Comp
+L Connector:TestPoint TP?
+U 1 1 632F4C1D
+P 6500 2800
+AR Path="/632F4C1D" Ref="TP?"  Part="1" 
+AR Path="/632AA7D0/632F4C1D" Ref="TP203"  Part="1" 
+AR Path="/632F052F/632F4C1D" Ref="TP?"  Part="1" 
+AR Path="/632F46AE/632F4C1D" Ref="TP303"  Part="1" 
+F 0 "TP303" V 6500 2988 50  0000 L CNN
+F 1 " " H 6558 2827 50  0001 L CNN
+F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 6700 2800 50  0001 C CNN
+F 3 "~" H 6700 2800 50  0001 C CNN
+	1    6500 2800
+	0    1    -1   0   
+$EndComp
+$Comp
+L Connector:TestPoint TP?
+U 1 1 632F4C1E
+P 6500 2700
+AR Path="/632F4C1E" Ref="TP?"  Part="1" 
+AR Path="/632AA7D0/632F4C1E" Ref="TP204"  Part="1" 
+AR Path="/632F052F/632F4C1E" Ref="TP?"  Part="1" 
+AR Path="/632F46AE/632F4C1E" Ref="TP304"  Part="1" 
+F 0 "TP304" V 6500 2888 50  0000 L CNN
+F 1 " " H 6558 2727 50  0001 L CNN
+F 2 "TestPoint:TestPoint_Pad_D1.0mm" H 6700 2700 50  0001 C CNN
+F 3 "~" H 6700 2700 50  0001 C CNN
+	1    6500 2700
+	0    1    -1   0   
+$EndComp
+Text Label 6500 2800 2    50   ~ 0
+Q0'
+$Comp
+L Connector:TestPoint TP?
+U 1 1 632F4C1F
+P 6500 2350
+AR Path="/632F4C1F" Ref="TP?"  Part="1" 
+AR Path="/632AA7D0/632F4C1F" Ref="TP201"  Part="1" 
+AR Path="/632F052F/632F4C1F" Ref="TP?"  Part="1" 
+AR Path="/632F46AE/632F4C1F" Ref="TP301"  Part="1" 
+F 0 "TP301" V 6500 2538 50  0000 L CNN
+F 1 " " H 6558 2377 50  0001 L CNN
+F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 6700 2350 50  0001 C CNN
+F 3 "~" H 6700 2350 50  0001 C CNN
+	1    6500 2350
+	0    1    1    0   
+$EndComp
+Text Label 6500 2350 2    50   ~ 0
+B0
+Text Label 6500 2700 2    50   ~ 0
+Q0
+Wire Wire Line
+	4200 2950 4500 2950
+Wire Wire Line
+	4300 3050 3900 3050
+Wire Wire Line
+	4500 3050 4300 3050
+Connection ~ 4300 3050
+Text Label 7150 2950 0    50   ~ 0
+Q0
+Text Label 7150 3050 0    50   ~ 0
+Q0'
+Wire Wire Line
+	5050 3050 6150 3050
+Wire Wire Line
+	6150 2400 6150 3050
+Connection ~ 6150 3050
+Wire Wire Line
+	6150 3050 6350 3050
+Wire Wire Line
+	6050 2950 6050 2450
+Wire Wire Line
+	5100 2300 4300 2300
+Wire Wire Line
+	4300 2300 4300 3050
+Wire Wire Line
+	4200 2400 4200 2950
+Wire Wire Line
+	5200 2450 6050 2450
+Wire Wire Line
+	5200 2300 5200 2450
+Wire Wire Line
+	4200 2400 5300 2400
+Wire Wire Line
+	5300 2400 5300 2300
+Wire Wire Line
+	6150 2400 5400 2400
+Wire Wire Line
+	5400 2400 5400 2300
+$Comp
+L Device:R R?
+U 1 1 632B8370
+P 7600 2300
+AR Path="/632B8370" Ref="R?"  Part="1" 
+AR Path="/632AA7D0/632B8370" Ref="R201"  Part="1" 
+AR Path="/632F052F/632B8370" Ref="R?"  Part="1" 
+AR Path="/632F46AE/632B8370" Ref="R301"  Part="1" 
+F 0 "R301" H 7670 2346 50  0000 L CNN
+F 1 "R" H 7670 2255 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" V 7530 2300 50  0001 C CNN
+F 3 "~" H 7600 2300 50  0001 C CNN
+	1    7600 2300
+	1    0    0    -1  
+$EndComp
+Text GLabel 8450 3450 0    50   Input ~ 0
+~OE
+Text GLabel 1300 3050 0    50   Input ~ 0
+phi1
+Text GLabel 2900 3750 0    50   Input ~ 0
+E
+Text GLabel 3100 4500 0    50   Input ~ 0
+~reset
+Text GLabel 4600 4100 0    50   Input ~ 0
+phi2
+Text Label 3650 2950 0    50   ~ 0
+I0
+Text Label 3650 3050 0    50   ~ 0
+I0'
+$EndSCHEMATC

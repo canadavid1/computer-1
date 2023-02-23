@@ -1,0 +1,1436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\david\OneDrive\Pictures\Documents\KICAD\transistor computer v2\adder\adder.sch</source>
+    <date>23/01/2023 12:58:03</date>
+    <tool>Eeschema (5.1.9)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>adder.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/1/" tstamps="/6397A725/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>1.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/2/" tstamps="/63A3D3BB/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>2.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/3/" tstamps="/63AC69FC/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>3.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="Q1">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63480D49</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6348257E</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63485516</tstamp>
+    </comp>
+    <comp ref="Q3">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63486C32</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63486C3C</tstamp>
+    </comp>
+    <comp ref="Q4">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63486C46</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63486C50</tstamp>
+    </comp>
+    <comp ref="Q5">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63492A34</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63492AE2</tstamp>
+    </comp>
+    <comp ref="Q6">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63492AEC</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63492AF6</tstamp>
+    </comp>
+    <comp ref="Q7">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>634A2921</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>634A29CF</tstamp>
+    </comp>
+    <comp ref="Q8">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>634A29D9</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>634A29E3</tstamp>
+    </comp>
+    <comp ref="Q9">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>634BB778</tstamp>
+    </comp>
+    <comp ref="RN1">
+      <value>R_Pack04</value>
+      <footprint>Resistor_SMD:R_Array_Convex_4x1206</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Pack04" description="4 resistor network, parallel topology"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>634F5ABF</tstamp>
+    </comp>
+    <comp ref="RN0">
+      <value>R_Pack04</value>
+      <footprint>Resistor_SMD:R_Array_Convex_4x1206</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Pack04" description="4 resistor network, parallel topology"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>634F7861</tstamp>
+    </comp>
+    <comp ref="TP1">
+      <value> </value>
+      <footprint>Connector_Pin:Pin_D1.0mm_L10.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>636A78D5</tstamp>
+    </comp>
+    <comp ref="TP2">
+      <value> </value>
+      <footprint>Connector_Pin:Pin_D1.0mm_L10.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>636A9EEE</tstamp>
+    </comp>
+    <comp ref="TP3">
+      <value> </value>
+      <footprint>Connector_Pin:Pin_D1.0mm_L10.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>636AC38B</tstamp>
+    </comp>
+    <comp ref="TP8">
+      <value> </value>
+      <footprint>Connector_Pin:Pin_D1.0mm_L10.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>637BF4DE</tstamp>
+    </comp>
+    <comp ref="TP6">
+      <value> </value>
+      <footprint>Connector_Pin:Pin_D1.0mm_L10.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>637BF4E8</tstamp>
+    </comp>
+    <comp ref="TP4">
+      <value> </value>
+      <footprint>Connector_Pin:Pin_D1.0mm_L10.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>637BF4F2</tstamp>
+    </comp>
+    <comp ref="TP5">
+      <value> </value>
+      <footprint>Connector_Pin:Pin_D1.0mm_L10.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>637C41F1</tstamp>
+    </comp>
+    <comp ref="TP7">
+      <value> </value>
+      <footprint>Connector_Pin:Pin_D1.0mm_L10.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>637C41FB</tstamp>
+    </comp>
+    <comp ref="Q0">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>634BB76E</tstamp>
+    </comp>
+    <comp ref="C0">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6307A888</tstamp>
+    </comp>
+    <comp ref="D0">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6385428E</tstamp>
+    </comp>
+    <comp ref="TP0">
+      <value> </value>
+      <footprint>Connector_Pin:Pin_D1.0mm_L10.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6385BB94</tstamp>
+    </comp>
+    <comp ref="Q2">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63483665</tstamp>
+    </comp>
+    <comp ref="RN2">
+      <value>R_Pack04</value>
+      <footprint>Resistor_SMD:R_Array_Convex_4x1206</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Pack04" description="4 resistor network, parallel topology"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63A5A06B</tstamp>
+    </comp>
+    <comp ref="Q202">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/1/" tstamps="/6397A725/"/>
+      <tstamp>63993B35</tstamp>
+    </comp>
+    <comp ref="D202">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/1/" tstamps="/6397A725/"/>
+      <tstamp>63993B3B</tstamp>
+    </comp>
+    <comp ref="D203">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/1/" tstamps="/6397A725/"/>
+      <tstamp>63993B41</tstamp>
+    </comp>
+    <comp ref="Q204">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/1/" tstamps="/6397A725/"/>
+      <tstamp>63993B4E</tstamp>
+    </comp>
+    <comp ref="D204">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/1/" tstamps="/6397A725/"/>
+      <tstamp>63993B54</tstamp>
+    </comp>
+    <comp ref="Q205">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/1/" tstamps="/6397A725/"/>
+      <tstamp>63993B5A</tstamp>
+    </comp>
+    <comp ref="D205">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/1/" tstamps="/6397A725/"/>
+      <tstamp>63993B60</tstamp>
+    </comp>
+    <comp ref="Q206">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/1/" tstamps="/6397A725/"/>
+      <tstamp>63993B78</tstamp>
+    </comp>
+    <comp ref="D206">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/1/" tstamps="/6397A725/"/>
+      <tstamp>63993B7E</tstamp>
+    </comp>
+    <comp ref="Q207">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/1/" tstamps="/6397A725/"/>
+      <tstamp>63993B84</tstamp>
+    </comp>
+    <comp ref="D207">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/1/" tstamps="/6397A725/"/>
+      <tstamp>63993B8A</tstamp>
+    </comp>
+    <comp ref="Q208">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/1/" tstamps="/6397A725/"/>
+      <tstamp>63993B9D</tstamp>
+    </comp>
+    <comp ref="D208">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/1/" tstamps="/6397A725/"/>
+      <tstamp>63993BA3</tstamp>
+    </comp>
+    <comp ref="Q209">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/1/" tstamps="/6397A725/"/>
+      <tstamp>63993BA9</tstamp>
+    </comp>
+    <comp ref="D209">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/1/" tstamps="/6397A725/"/>
+      <tstamp>63993BAF</tstamp>
+    </comp>
+    <comp ref="Q210">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/1/" tstamps="/6397A725/"/>
+      <tstamp>63993BC4</tstamp>
+    </comp>
+    <comp ref="RN201">
+      <value>R_Pack04</value>
+      <footprint>Resistor_SMD:R_Array_Convex_4x1206</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Pack04" description="4 resistor network, parallel topology"/>
+      <sheetpath names="/1/" tstamps="/6397A725/"/>
+      <tstamp>63993BE6</tstamp>
+    </comp>
+    <comp ref="TP201">
+      <value> </value>
+      <footprint>Connector_Pin:Pin_D1.0mm_L10.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/1/" tstamps="/6397A725/"/>
+      <tstamp>63993C0A</tstamp>
+    </comp>
+    <comp ref="TP202">
+      <value> </value>
+      <footprint>Connector_Pin:Pin_D1.0mm_L10.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/1/" tstamps="/6397A725/"/>
+      <tstamp>63993C10</tstamp>
+    </comp>
+    <comp ref="TP203">
+      <value> </value>
+      <footprint>Connector_Pin:Pin_D1.0mm_L10.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/1/" tstamps="/6397A725/"/>
+      <tstamp>63993C16</tstamp>
+    </comp>
+    <comp ref="Q201">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/1/" tstamps="/6397A725/"/>
+      <tstamp>63993C20</tstamp>
+    </comp>
+    <comp ref="D201">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/1/" tstamps="/6397A725/"/>
+      <tstamp>63993C26</tstamp>
+    </comp>
+    <comp ref="Q203">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/1/" tstamps="/6397A725/"/>
+      <tstamp>63993C32</tstamp>
+    </comp>
+    <comp ref="Q302">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/2/" tstamps="/63A3D3BB/"/>
+      <tstamp>63A4F280</tstamp>
+    </comp>
+    <comp ref="D302">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/2/" tstamps="/63A3D3BB/"/>
+      <tstamp>63A4F286</tstamp>
+    </comp>
+    <comp ref="D303">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/2/" tstamps="/63A3D3BB/"/>
+      <tstamp>63A4F28C</tstamp>
+    </comp>
+    <comp ref="Q304">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/2/" tstamps="/63A3D3BB/"/>
+      <tstamp>63A4F299</tstamp>
+    </comp>
+    <comp ref="D304">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/2/" tstamps="/63A3D3BB/"/>
+      <tstamp>63A4F29F</tstamp>
+    </comp>
+    <comp ref="Q305">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/2/" tstamps="/63A3D3BB/"/>
+      <tstamp>63A4F2A5</tstamp>
+    </comp>
+    <comp ref="D305">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/2/" tstamps="/63A3D3BB/"/>
+      <tstamp>63A4F2AB</tstamp>
+    </comp>
+    <comp ref="Q306">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/2/" tstamps="/63A3D3BB/"/>
+      <tstamp>63A4F2C3</tstamp>
+    </comp>
+    <comp ref="D306">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/2/" tstamps="/63A3D3BB/"/>
+      <tstamp>63A4F2C9</tstamp>
+    </comp>
+    <comp ref="Q307">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/2/" tstamps="/63A3D3BB/"/>
+      <tstamp>63A4F2CF</tstamp>
+    </comp>
+    <comp ref="D307">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/2/" tstamps="/63A3D3BB/"/>
+      <tstamp>63A4F2D5</tstamp>
+    </comp>
+    <comp ref="Q308">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/2/" tstamps="/63A3D3BB/"/>
+      <tstamp>63A4F2E8</tstamp>
+    </comp>
+    <comp ref="D308">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/2/" tstamps="/63A3D3BB/"/>
+      <tstamp>63A4F2EE</tstamp>
+    </comp>
+    <comp ref="Q309">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/2/" tstamps="/63A3D3BB/"/>
+      <tstamp>63A4F2F4</tstamp>
+    </comp>
+    <comp ref="D309">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/2/" tstamps="/63A3D3BB/"/>
+      <tstamp>63A4F2FA</tstamp>
+    </comp>
+    <comp ref="Q310">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/2/" tstamps="/63A3D3BB/"/>
+      <tstamp>63A4F30F</tstamp>
+    </comp>
+    <comp ref="RN301">
+      <value>R_Pack04</value>
+      <footprint>Resistor_SMD:R_Array_Convex_4x1206</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Pack04" description="4 resistor network, parallel topology"/>
+      <sheetpath names="/2/" tstamps="/63A3D3BB/"/>
+      <tstamp>63A4F329</tstamp>
+    </comp>
+    <comp ref="TP301">
+      <value> </value>
+      <footprint>Connector_Pin:Pin_D1.0mm_L10.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/2/" tstamps="/63A3D3BB/"/>
+      <tstamp>63A4F344</tstamp>
+    </comp>
+    <comp ref="TP302">
+      <value> </value>
+      <footprint>Connector_Pin:Pin_D1.0mm_L10.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/2/" tstamps="/63A3D3BB/"/>
+      <tstamp>63A4F34A</tstamp>
+    </comp>
+    <comp ref="TP303">
+      <value> </value>
+      <footprint>Connector_Pin:Pin_D1.0mm_L10.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/2/" tstamps="/63A3D3BB/"/>
+      <tstamp>63A4F350</tstamp>
+    </comp>
+    <comp ref="Q301">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/2/" tstamps="/63A3D3BB/"/>
+      <tstamp>63A4F35A</tstamp>
+    </comp>
+    <comp ref="D301">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/2/" tstamps="/63A3D3BB/"/>
+      <tstamp>63A4F360</tstamp>
+    </comp>
+    <comp ref="Q303">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/2/" tstamps="/63A3D3BB/"/>
+      <tstamp>63A4F36A</tstamp>
+    </comp>
+    <comp ref="Q402">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/3/" tstamps="/63AC69FC/"/>
+      <tstamp>63ADB6EE</tstamp>
+    </comp>
+    <comp ref="D402">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/3/" tstamps="/63AC69FC/"/>
+      <tstamp>63ADB6F4</tstamp>
+    </comp>
+    <comp ref="D403">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/3/" tstamps="/63AC69FC/"/>
+      <tstamp>63ADB6FA</tstamp>
+    </comp>
+    <comp ref="Q404">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/3/" tstamps="/63AC69FC/"/>
+      <tstamp>63ADB707</tstamp>
+    </comp>
+    <comp ref="D404">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/3/" tstamps="/63AC69FC/"/>
+      <tstamp>63ADB70D</tstamp>
+    </comp>
+    <comp ref="Q405">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/3/" tstamps="/63AC69FC/"/>
+      <tstamp>63ADB713</tstamp>
+    </comp>
+    <comp ref="D405">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/3/" tstamps="/63AC69FC/"/>
+      <tstamp>63ADB719</tstamp>
+    </comp>
+    <comp ref="Q406">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/3/" tstamps="/63AC69FC/"/>
+      <tstamp>63ADB731</tstamp>
+    </comp>
+    <comp ref="D406">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/3/" tstamps="/63AC69FC/"/>
+      <tstamp>63ADB737</tstamp>
+    </comp>
+    <comp ref="Q407">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/3/" tstamps="/63AC69FC/"/>
+      <tstamp>63ADB73D</tstamp>
+    </comp>
+    <comp ref="D407">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/3/" tstamps="/63AC69FC/"/>
+      <tstamp>63ADB743</tstamp>
+    </comp>
+    <comp ref="Q408">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/3/" tstamps="/63AC69FC/"/>
+      <tstamp>63ADB756</tstamp>
+    </comp>
+    <comp ref="D408">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/3/" tstamps="/63AC69FC/"/>
+      <tstamp>63ADB75C</tstamp>
+    </comp>
+    <comp ref="Q409">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/3/" tstamps="/63AC69FC/"/>
+      <tstamp>63ADB762</tstamp>
+    </comp>
+    <comp ref="D409">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/3/" tstamps="/63AC69FC/"/>
+      <tstamp>63ADB768</tstamp>
+    </comp>
+    <comp ref="Q410">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/3/" tstamps="/63AC69FC/"/>
+      <tstamp>63ADB77D</tstamp>
+    </comp>
+    <comp ref="RN401">
+      <value>R_Pack04</value>
+      <footprint>Resistor_SMD:R_Array_Convex_4x1206</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Pack04" description="4 resistor network, parallel topology"/>
+      <sheetpath names="/3/" tstamps="/63AC69FC/"/>
+      <tstamp>63ADB797</tstamp>
+    </comp>
+    <comp ref="TP401">
+      <value> </value>
+      <footprint>Connector_Pin:Pin_D1.0mm_L10.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/3/" tstamps="/63AC69FC/"/>
+      <tstamp>63ADB7B2</tstamp>
+    </comp>
+    <comp ref="TP402">
+      <value> </value>
+      <footprint>Connector_Pin:Pin_D1.0mm_L10.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/3/" tstamps="/63AC69FC/"/>
+      <tstamp>63ADB7B8</tstamp>
+    </comp>
+    <comp ref="TP403">
+      <value> </value>
+      <footprint>Connector_Pin:Pin_D1.0mm_L10.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/3/" tstamps="/63AC69FC/"/>
+      <tstamp>63ADB7BE</tstamp>
+    </comp>
+    <comp ref="Q401">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/3/" tstamps="/63AC69FC/"/>
+      <tstamp>63ADB7C8</tstamp>
+    </comp>
+    <comp ref="D401">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/3/" tstamps="/63AC69FC/"/>
+      <tstamp>63ADB7CE</tstamp>
+    </comp>
+    <comp ref="Q403">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/3/" tstamps="/63AC69FC/"/>
+      <tstamp>63ADB7D8</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D">
+      <description>Diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Pack04">
+      <description>4 resistor network, parallel topology</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>DIP*</fp>
+        <fp>SOIC*</fp>
+        <fp>R*Array*Concave*</fp>
+        <fp>R*Array*Convex*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RN</field>
+        <field name="Value">R_Pack04</field>
+      </fields>
+      <pins>
+        <pin num="1" name="R1.1" type="passive"/>
+        <pin num="2" name="R2.1" type="passive"/>
+        <pin num="3" name="R3.1" type="passive"/>
+        <pin num="4" name="R4.1" type="passive"/>
+        <pin num="5" name="R4.2" type="passive"/>
+        <pin num="6" name="R3.2" type="passive"/>
+        <pin num="7" name="R2.2" type="passive"/>
+        <pin num="8" name="R1.2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_FET" part="BSS138">
+      <aliases>
+        <alias>2N7002</alias>
+        <alias>2N7002E</alias>
+        <alias>2N7002H</alias>
+        <alias>2N7002K</alias>
+        <alias>BS170F</alias>
+        <alias>BS870</alias>
+        <alias>BSN20</alias>
+        <alias>BSS123</alias>
+        <alias>BSS127S</alias>
+        <alias>DMG2302U</alias>
+        <alias>DMG3402L</alias>
+        <alias>DMG3404L</alias>
+        <alias>DMG3406L</alias>
+        <alias>DMG3414U</alias>
+        <alias>DMG3418L</alias>
+        <alias>DMN10H220L</alias>
+        <alias>DMN10H700S</alias>
+        <alias>DMN13H750S</alias>
+        <alias>DMN2041L</alias>
+        <alias>DMN2050L</alias>
+        <alias>DMN2056U</alias>
+        <alias>DMN2058U</alias>
+        <alias>DMN2075U</alias>
+        <alias>DMN2230U</alias>
+        <alias>DMN24H11DS</alias>
+        <alias>DMN24H3D5L</alias>
+        <alias>DMN3042L</alias>
+        <alias>DMN3051L</alias>
+        <alias>DMN30H4D0L</alias>
+        <alias>DMN3110S</alias>
+        <alias>DMN3150L</alias>
+        <alias>DMN3300U</alias>
+        <alias>DMN3404L</alias>
+        <alias>DMN6075S</alias>
+        <alias>DMN6140L</alias>
+        <alias>DMN67D7L</alias>
+        <alias>DMN67D8L</alias>
+        <alias>MMBF170</alias>
+        <alias>VN10LF</alias>
+        <alias>ZVN3306F</alias>
+        <alias>ZVN3310F</alias>
+        <alias>ZVN3320F</alias>
+        <alias>ZVN4106F</alias>
+        <alias>ZXM61N02F</alias>
+        <alias>ZXM61N03F</alias>
+        <alias>ZXMN10A07F</alias>
+        <alias>ZXMN2A01F</alias>
+        <alias>ZXMN2A14F</alias>
+        <alias>ZXMN2B01F</alias>
+        <alias>ZXMN2B14FH</alias>
+        <alias>ZXMN2F30FH</alias>
+        <alias>ZXMN2F34FH</alias>
+        <alias>ZXMN3A01F</alias>
+        <alias>ZXMN3A14F</alias>
+        <alias>ZXMN3B01F</alias>
+        <alias>ZXMN3B14F</alias>
+        <alias>ZXMN3F30FH</alias>
+        <alias>ZXMN6A07F</alias>
+        <alias>IRLML0030</alias>
+        <alias>IRLML2060</alias>
+        <alias>TSM2302CX</alias>
+        <alias>AO3400A</alias>
+      </aliases>
+      <description>50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23</description>
+      <docs>https://www.onsemi.com/pub/Collateral/BSS138-D.PDF</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BSS138</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Connector.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+    <library logical="Transistor_FET">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Transistor_FET.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="~add">
+      <node ref="D308" pin="1"/>
+      <node ref="Q309" pin="1"/>
+      <node ref="Q209" pin="1"/>
+      <node ref="D208" pin="1"/>
+      <node ref="D408" pin="1"/>
+      <node ref="TP6" pin="1"/>
+      <node ref="Q409" pin="1"/>
+      <node ref="Q8" pin="1"/>
+      <node ref="D7" pin="1"/>
+    </net>
+    <net code="2" name="VCC">
+      <node ref="RN2" pin="8"/>
+      <node ref="RN2" pin="7"/>
+      <node ref="RN2" pin="6"/>
+      <node ref="RN2" pin="5"/>
+      <node ref="RN1" pin="5"/>
+      <node ref="RN1" pin="6"/>
+      <node ref="RN1" pin="7"/>
+      <node ref="RN1" pin="8"/>
+      <node ref="RN0" pin="3"/>
+      <node ref="RN0" pin="4"/>
+      <node ref="TP7" pin="1"/>
+      <node ref="RN201" pin="3"/>
+      <node ref="RN201" pin="4"/>
+      <node ref="RN201" pin="7"/>
+      <node ref="RN201" pin="8"/>
+      <node ref="C0" pin="1"/>
+      <node ref="RN301" pin="3"/>
+      <node ref="RN301" pin="4"/>
+      <node ref="RN301" pin="7"/>
+      <node ref="RN301" pin="8"/>
+      <node ref="RN401" pin="8"/>
+      <node ref="RN0" pin="7"/>
+      <node ref="RN401" pin="7"/>
+      <node ref="RN0" pin="8"/>
+      <node ref="RN401" pin="4"/>
+      <node ref="RN401" pin="3"/>
+    </net>
+    <net code="3" name="GND">
+      <node ref="Q401" pin="2"/>
+      <node ref="Q9" pin="2"/>
+      <node ref="Q310" pin="2"/>
+      <node ref="Q0" pin="2"/>
+      <node ref="Q410" pin="2"/>
+      <node ref="Q201" pin="2"/>
+      <node ref="C0" pin="2"/>
+      <node ref="Q301" pin="2"/>
+      <node ref="Q210" pin="2"/>
+      <node ref="TP8" pin="1"/>
+    </net>
+    <net code="4" name="CLRC">
+      <node ref="D301" pin="1"/>
+      <node ref="D401" pin="1"/>
+      <node ref="D201" pin="1"/>
+      <node ref="TP0" pin="1"/>
+      <node ref="D0" pin="1"/>
+    </net>
+    <net code="5" name="/B">
+      <node ref="Q1" pin="1"/>
+      <node ref="D2" pin="1"/>
+      <node ref="TP1" pin="1"/>
+      <node ref="Q6" pin="1"/>
+    </net>
+    <net code="6" name="/A">
+      <node ref="Q7" pin="1"/>
+      <node ref="D8" pin="1"/>
+      <node ref="TP2" pin="1"/>
+    </net>
+    <net code="7" name="/2/Ci">
+      <node ref="D201" pin="2"/>
+      <node ref="Q201" pin="3"/>
+      <node ref="Q310" pin="1"/>
+      <node ref="RN1" pin="1"/>
+    </net>
+    <net code="8" name="/2/nCo">
+      <node ref="Q301" pin="1"/>
+      <node ref="Q306" pin="3"/>
+      <node ref="Q307" pin="3"/>
+      <node ref="RN2" pin="4"/>
+    </net>
+    <net code="9" name="/3/Ci">
+      <node ref="D301" pin="2"/>
+      <node ref="RN2" pin="3"/>
+      <node ref="Q301" pin="3"/>
+      <node ref="Q410" pin="1"/>
+    </net>
+    <net code="10" name="/3/Co">
+      <node ref="Q401" pin="3"/>
+      <node ref="TP5" pin="1"/>
+      <node ref="RN2" pin="1"/>
+      <node ref="D401" pin="2"/>
+    </net>
+    <net code="11" name="/3/nCo">
+      <node ref="RN2" pin="2"/>
+      <node ref="Q401" pin="1"/>
+      <node ref="Q407" pin="3"/>
+      <node ref="Q406" pin="3"/>
+    </net>
+    <net code="12" name="Net-(D2-Pad2)">
+      <node ref="Q2" pin="2"/>
+      <node ref="D2" pin="2"/>
+    </net>
+    <net code="13" name="/1/nCo">
+      <node ref="Q206" pin="3"/>
+      <node ref="RN1" pin="2"/>
+      <node ref="Q207" pin="3"/>
+      <node ref="Q201" pin="1"/>
+    </net>
+    <net code="14" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2"/>
+      <node ref="Q1" pin="2"/>
+    </net>
+    <net code="15" name="Net-(D5-Pad2)">
+      <node ref="Q5" pin="2"/>
+      <node ref="D5" pin="2"/>
+    </net>
+    <net code="16" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2"/>
+      <node ref="Q6" pin="2"/>
+    </net>
+    <net code="17" name="Net-(D3-Pad2)">
+      <node ref="Q3" pin="2"/>
+      <node ref="D3" pin="2"/>
+    </net>
+    <net code="18" name="/SUM">
+      <node ref="RN0" pin="5"/>
+      <node ref="Q3" pin="3"/>
+      <node ref="Q4" pin="3"/>
+      <node ref="TP3" pin="1"/>
+    </net>
+    <net code="19" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2"/>
+      <node ref="Q4" pin="2"/>
+    </net>
+    <net code="20" name="/Ci">
+      <node ref="TP4" pin="1"/>
+      <node ref="Q9" pin="1"/>
+    </net>
+    <net code="21" name="/Co">
+      <node ref="RN1" pin="3"/>
+      <node ref="Q0" pin="3"/>
+      <node ref="Q210" pin="1"/>
+      <node ref="D0" pin="2"/>
+    </net>
+    <net code="22" name="/nCo">
+      <node ref="Q5" pin="3"/>
+      <node ref="Q6" pin="3"/>
+      <node ref="RN1" pin="4"/>
+      <node ref="Q0" pin="1"/>
+    </net>
+    <net code="23" name="/nA'">
+      <node ref="D1" pin="1"/>
+      <node ref="Q2" pin="1"/>
+      <node ref="Q8" pin="3"/>
+      <node ref="Q7" pin="3"/>
+      <node ref="RN0" pin="1"/>
+      <node ref="D6" pin="1"/>
+    </net>
+    <net code="24" name="/~A^B">
+      <node ref="Q4" pin="1"/>
+      <node ref="RN0" pin="2"/>
+      <node ref="Q2" pin="3"/>
+      <node ref="Q5" pin="1"/>
+      <node ref="D3" pin="1"/>
+      <node ref="Q1" pin="3"/>
+    </net>
+    <net code="25" name="/nCi">
+      <node ref="D4" pin="1"/>
+      <node ref="Q9" pin="3"/>
+      <node ref="D5" pin="1"/>
+      <node ref="Q3" pin="1"/>
+      <node ref="RN0" pin="6"/>
+    </net>
+    <net code="26" name="Net-(D7-Pad2)">
+      <node ref="Q7" pin="2"/>
+      <node ref="D7" pin="2"/>
+    </net>
+    <net code="27" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2"/>
+      <node ref="Q8" pin="2"/>
+    </net>
+    <net code="28" name="/1/nA'">
+      <node ref="Q203" pin="1"/>
+      <node ref="Q208" pin="3"/>
+      <node ref="RN201" pin="1"/>
+      <node ref="D202" pin="1"/>
+      <node ref="Q209" pin="3"/>
+      <node ref="D207" pin="1"/>
+    </net>
+    <net code="29" name="/1/~A^B">
+      <node ref="RN201" pin="2"/>
+      <node ref="Q205" pin="1"/>
+      <node ref="D204" pin="1"/>
+      <node ref="Q203" pin="3"/>
+      <node ref="Q202" pin="3"/>
+      <node ref="Q206" pin="1"/>
+    </net>
+    <net code="30" name="/1/SUM">
+      <node ref="TP203" pin="1"/>
+      <node ref="Q204" pin="3"/>
+      <node ref="Q205" pin="3"/>
+      <node ref="RN201" pin="5"/>
+    </net>
+    <net code="31" name="/1/nCi">
+      <node ref="RN201" pin="6"/>
+      <node ref="D206" pin="1"/>
+      <node ref="D205" pin="1"/>
+      <node ref="Q210" pin="3"/>
+      <node ref="Q204" pin="1"/>
+    </net>
+    <net code="32" name="Net-(D203-Pad2)">
+      <node ref="D203" pin="2"/>
+      <node ref="Q203" pin="2"/>
+    </net>
+    <net code="33" name="/1/B">
+      <node ref="Q202" pin="1"/>
+      <node ref="TP201" pin="1"/>
+      <node ref="D203" pin="1"/>
+      <node ref="Q207" pin="1"/>
+    </net>
+    <net code="34" name="Net-(D204-Pad2)">
+      <node ref="Q204" pin="2"/>
+      <node ref="D204" pin="2"/>
+    </net>
+    <net code="35" name="Net-(D205-Pad2)">
+      <node ref="D205" pin="2"/>
+      <node ref="Q205" pin="2"/>
+    </net>
+    <net code="36" name="Net-(D202-Pad2)">
+      <node ref="Q202" pin="2"/>
+      <node ref="D202" pin="2"/>
+    </net>
+    <net code="37" name="/1/A">
+      <node ref="D209" pin="1"/>
+      <node ref="TP202" pin="1"/>
+      <node ref="Q208" pin="1"/>
+    </net>
+    <net code="38" name="Net-(D208-Pad2)">
+      <node ref="Q208" pin="2"/>
+      <node ref="D208" pin="2"/>
+    </net>
+    <net code="39" name="Net-(D209-Pad2)">
+      <node ref="Q209" pin="2"/>
+      <node ref="D209" pin="2"/>
+    </net>
+    <net code="40" name="Net-(D206-Pad2)">
+      <node ref="Q206" pin="2"/>
+      <node ref="D206" pin="2"/>
+    </net>
+    <net code="41" name="Net-(D207-Pad2)">
+      <node ref="D207" pin="2"/>
+      <node ref="Q207" pin="2"/>
+    </net>
+    <net code="42" name="/2/nA'">
+      <node ref="Q309" pin="3"/>
+      <node ref="RN301" pin="1"/>
+      <node ref="Q308" pin="3"/>
+      <node ref="D302" pin="1"/>
+      <node ref="Q303" pin="1"/>
+      <node ref="D307" pin="1"/>
+    </net>
+    <net code="43" name="/2/~A^B">
+      <node ref="Q305" pin="1"/>
+      <node ref="Q306" pin="1"/>
+      <node ref="RN301" pin="2"/>
+      <node ref="Q303" pin="3"/>
+      <node ref="Q302" pin="3"/>
+      <node ref="D304" pin="1"/>
+    </net>
+    <net code="44" name="/2/SUM">
+      <node ref="TP303" pin="1"/>
+      <node ref="Q304" pin="3"/>
+      <node ref="Q305" pin="3"/>
+      <node ref="RN301" pin="5"/>
+    </net>
+    <net code="45" name="/2/nCi">
+      <node ref="Q310" pin="3"/>
+      <node ref="D306" pin="1"/>
+      <node ref="RN301" pin="6"/>
+      <node ref="D305" pin="1"/>
+      <node ref="Q304" pin="1"/>
+    </net>
+    <net code="46" name="/2/A">
+      <node ref="Q308" pin="1"/>
+      <node ref="TP302" pin="1"/>
+      <node ref="D309" pin="1"/>
+    </net>
+    <net code="47" name="Net-(D303-Pad2)">
+      <node ref="Q303" pin="2"/>
+      <node ref="D303" pin="2"/>
+    </net>
+    <net code="48" name="/2/B">
+      <node ref="D303" pin="1"/>
+      <node ref="TP301" pin="1"/>
+      <node ref="Q307" pin="1"/>
+      <node ref="Q302" pin="1"/>
+    </net>
+    <net code="49" name="Net-(D305-Pad2)">
+      <node ref="D305" pin="2"/>
+      <node ref="Q305" pin="2"/>
+    </net>
+    <net code="50" name="Net-(D304-Pad2)">
+      <node ref="Q304" pin="2"/>
+      <node ref="D304" pin="2"/>
+    </net>
+    <net code="51" name="Net-(D302-Pad2)">
+      <node ref="D302" pin="2"/>
+      <node ref="Q302" pin="2"/>
+    </net>
+    <net code="52" name="Net-(D308-Pad2)">
+      <node ref="D308" pin="2"/>
+      <node ref="Q308" pin="2"/>
+    </net>
+    <net code="53" name="Net-(D309-Pad2)">
+      <node ref="D309" pin="2"/>
+      <node ref="Q309" pin="2"/>
+    </net>
+    <net code="54" name="Net-(D306-Pad2)">
+      <node ref="D306" pin="2"/>
+      <node ref="Q306" pin="2"/>
+    </net>
+    <net code="55" name="Net-(D307-Pad2)">
+      <node ref="D307" pin="2"/>
+      <node ref="Q307" pin="2"/>
+    </net>
+    <net code="56" name="/3/nA'">
+      <node ref="D402" pin="1"/>
+      <node ref="D407" pin="1"/>
+      <node ref="Q408" pin="3"/>
+      <node ref="Q409" pin="3"/>
+      <node ref="RN401" pin="1"/>
+      <node ref="Q403" pin="1"/>
+    </net>
+    <net code="57" name="/3/~A^B">
+      <node ref="Q402" pin="3"/>
+      <node ref="Q406" pin="1"/>
+      <node ref="D404" pin="1"/>
+      <node ref="Q405" pin="1"/>
+      <node ref="RN401" pin="2"/>
+      <node ref="Q403" pin="3"/>
+    </net>
+    <net code="58" name="/3/SUM">
+      <node ref="Q404" pin="3"/>
+      <node ref="Q405" pin="3"/>
+      <node ref="RN401" pin="5"/>
+      <node ref="TP403" pin="1"/>
+    </net>
+    <net code="59" name="/3/nCi">
+      <node ref="Q410" pin="3"/>
+      <node ref="Q404" pin="1"/>
+      <node ref="D406" pin="1"/>
+      <node ref="RN401" pin="6"/>
+      <node ref="D405" pin="1"/>
+    </net>
+    <net code="60" name="Net-(D403-Pad2)">
+      <node ref="Q403" pin="2"/>
+      <node ref="D403" pin="2"/>
+    </net>
+    <net code="61" name="/3/B">
+      <node ref="D403" pin="1"/>
+      <node ref="TP401" pin="1"/>
+      <node ref="Q402" pin="1"/>
+      <node ref="Q407" pin="1"/>
+    </net>
+    <net code="62" name="Net-(D405-Pad2)">
+      <node ref="Q405" pin="2"/>
+      <node ref="D405" pin="2"/>
+    </net>
+    <net code="63" name="Net-(D404-Pad2)">
+      <node ref="Q404" pin="2"/>
+      <node ref="D404" pin="2"/>
+    </net>
+    <net code="64" name="Net-(D402-Pad2)">
+      <node ref="D402" pin="2"/>
+      <node ref="Q402" pin="2"/>
+    </net>
+    <net code="65" name="/3/A">
+      <node ref="TP402" pin="1"/>
+      <node ref="D409" pin="1"/>
+      <node ref="Q408" pin="1"/>
+    </net>
+    <net code="66" name="Net-(D408-Pad2)">
+      <node ref="D408" pin="2"/>
+      <node ref="Q408" pin="2"/>
+    </net>
+    <net code="67" name="Net-(D409-Pad2)">
+      <node ref="Q409" pin="2"/>
+      <node ref="D409" pin="2"/>
+    </net>
+    <net code="68" name="Net-(D407-Pad2)">
+      <node ref="D407" pin="2"/>
+      <node ref="Q407" pin="2"/>
+    </net>
+    <net code="69" name="Net-(D406-Pad2)">
+      <node ref="D406" pin="2"/>
+      <node ref="Q406" pin="2"/>
+    </net>
+  </nets>
+</export>

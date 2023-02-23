@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\david\OneDrive\Pictures\Documents\KICAD\transistor computer v2\decode\decode.sch</source>
+    <date>23/01/2023 12:58:19</date>
+    <tool>Eeschema (5.1.9)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>decode.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D0">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>630E6860</tstamp>
+    </comp>
+    <comp ref="Q0">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6384F743</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B84B2D</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B84FBE</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B84FDB</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8556C</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B85579</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B85587</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B85594</tstamp>
+    </comp>
+    <comp ref="D10">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8BCA6</tstamp>
+    </comp>
+    <comp ref="D11">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8BCAF</tstamp>
+    </comp>
+    <comp ref="D12">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8BCB9</tstamp>
+    </comp>
+    <comp ref="D13">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8BCC2</tstamp>
+    </comp>
+    <comp ref="D14">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8BCCD</tstamp>
+    </comp>
+    <comp ref="D15">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8BCD6</tstamp>
+    </comp>
+    <comp ref="D16">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8BCE0</tstamp>
+    </comp>
+    <comp ref="D17">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8BCE9</tstamp>
+    </comp>
+    <comp ref="D20">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8DCDB</tstamp>
+    </comp>
+    <comp ref="D21">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8DCE4</tstamp>
+    </comp>
+    <comp ref="D22">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8DCEE</tstamp>
+    </comp>
+    <comp ref="D23">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8DCF7</tstamp>
+    </comp>
+    <comp ref="D24">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8DD02</tstamp>
+    </comp>
+    <comp ref="D25">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8DD0B</tstamp>
+    </comp>
+    <comp ref="D26">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8DD15</tstamp>
+    </comp>
+    <comp ref="D27">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8DD1E</tstamp>
+    </comp>
+    <comp ref="D30">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8F395</tstamp>
+    </comp>
+    <comp ref="D31">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8F3A2</tstamp>
+    </comp>
+    <comp ref="D32">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8F3B0</tstamp>
+    </comp>
+    <comp ref="D33">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8F3BD</tstamp>
+    </comp>
+    <comp ref="D34">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8F3CC</tstamp>
+    </comp>
+    <comp ref="D35">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8F3D9</tstamp>
+    </comp>
+    <comp ref="D36">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8F3E7</tstamp>
+    </comp>
+    <comp ref="D37">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8F3F4</tstamp>
+    </comp>
+    <comp ref="D40">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8F404</tstamp>
+    </comp>
+    <comp ref="D41">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8F411</tstamp>
+    </comp>
+    <comp ref="D42">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8F41F</tstamp>
+    </comp>
+    <comp ref="D43">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8F42C</tstamp>
+    </comp>
+    <comp ref="D44">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8F43B</tstamp>
+    </comp>
+    <comp ref="D45">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8F448</tstamp>
+    </comp>
+    <comp ref="D46">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8F456</tstamp>
+    </comp>
+    <comp ref="D47">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8F463</tstamp>
+    </comp>
+    <comp ref="D50">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8F473</tstamp>
+    </comp>
+    <comp ref="D51">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8F480</tstamp>
+    </comp>
+    <comp ref="D52">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8F48E</tstamp>
+    </comp>
+    <comp ref="D53">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8F49B</tstamp>
+    </comp>
+    <comp ref="D54">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8F4AA</tstamp>
+    </comp>
+    <comp ref="D55">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8F4B7</tstamp>
+    </comp>
+    <comp ref="D56">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8F4C5</tstamp>
+    </comp>
+    <comp ref="D57">
+      <value>D</value>
+      <footprint>custom:D_SOD-323_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63B8F4D2</tstamp>
+    </comp>
+    <comp ref="JP0">
+      <value>SolderJumper_2_Bridged</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Jumper" part="SolderJumper_2_Bridged" description="Solder Jumper, 2-pole, closed/bridged"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63BA6FE5</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63BB984B</tstamp>
+    </comp>
+    <comp ref="Q2">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63BCA904</tstamp>
+    </comp>
+    <comp ref="Q3">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63BCA9BC</tstamp>
+    </comp>
+    <comp ref="Q4">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63BD7554</tstamp>
+    </comp>
+    <comp ref="JP1">
+      <value>SolderJumper_2_Bridged</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Jumper" part="SolderJumper_2_Bridged" description="Solder Jumper, 2-pole, closed/bridged"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63BFFE67</tstamp>
+    </comp>
+    <comp ref="TP16">
+      <value>TestPoint</value>
+      <footprint>Connector_Pin:Pin_D1.0mm_L10.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63C2F5D5</tstamp>
+    </comp>
+    <comp ref="TP14">
+      <value>TestPoint</value>
+      <footprint>Connector_Pin:Pin_D1.0mm_L10.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63C359D2</tstamp>
+    </comp>
+    <comp ref="Q5">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63BD760C</tstamp>
+    </comp>
+    <comp ref="J0">
+      <value>Conn_01x04_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x04_Male" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>631E75F3</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x04_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x04_Male" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6324AAAA</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x06_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x06_Male" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63296512</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x04_Male">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Male</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x06_Male">
+      <description>Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x06_Male</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D">
+      <description>Diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="SolderJumper_2_Bridged">
+      <description>Solder Jumper, 2-pole, closed/bridged</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SolderJumper*Bridged*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">SolderJumper_2_Bridged</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_FET" part="BSS138">
+      <aliases>
+        <alias>2N7002</alias>
+        <alias>2N7002E</alias>
+        <alias>2N7002H</alias>
+        <alias>2N7002K</alias>
+        <alias>BS170F</alias>
+        <alias>BS870</alias>
+        <alias>BSN20</alias>
+        <alias>BSS123</alias>
+        <alias>BSS127S</alias>
+        <alias>DMG2302U</alias>
+        <alias>DMG3402L</alias>
+        <alias>DMG3404L</alias>
+        <alias>DMG3406L</alias>
+        <alias>DMG3414U</alias>
+        <alias>DMG3418L</alias>
+        <alias>DMN10H220L</alias>
+        <alias>DMN10H700S</alias>
+        <alias>DMN13H750S</alias>
+        <alias>DMN2041L</alias>
+        <alias>DMN2050L</alias>
+        <alias>DMN2056U</alias>
+        <alias>DMN2058U</alias>
+        <alias>DMN2075U</alias>
+        <alias>DMN2230U</alias>
+        <alias>DMN24H11DS</alias>
+        <alias>DMN24H3D5L</alias>
+        <alias>DMN3042L</alias>
+        <alias>DMN3051L</alias>
+        <alias>DMN30H4D0L</alias>
+        <alias>DMN3110S</alias>
+        <alias>DMN3150L</alias>
+        <alias>DMN3300U</alias>
+        <alias>DMN3404L</alias>
+        <alias>DMN6075S</alias>
+        <alias>DMN6140L</alias>
+        <alias>DMN67D7L</alias>
+        <alias>DMN67D8L</alias>
+        <alias>MMBF170</alias>
+        <alias>VN10LF</alias>
+        <alias>ZVN3306F</alias>
+        <alias>ZVN3310F</alias>
+        <alias>ZVN3320F</alias>
+        <alias>ZVN4106F</alias>
+        <alias>ZXM61N02F</alias>
+        <alias>ZXM61N03F</alias>
+        <alias>ZXMN10A07F</alias>
+        <alias>ZXMN2A01F</alias>
+        <alias>ZXMN2A14F</alias>
+        <alias>ZXMN2B01F</alias>
+        <alias>ZXMN2B14FH</alias>
+        <alias>ZXMN2F30FH</alias>
+        <alias>ZXMN2F34FH</alias>
+        <alias>ZXMN3A01F</alias>
+        <alias>ZXMN3A14F</alias>
+        <alias>ZXMN3B01F</alias>
+        <alias>ZXMN3B14F</alias>
+        <alias>ZXMN3F30FH</alias>
+        <alias>ZXMN6A07F</alias>
+        <alias>IRLML0030</alias>
+        <alias>IRLML2060</alias>
+        <alias>TSM2302CX</alias>
+        <alias>AO3400A</alias>
+      </aliases>
+      <description>50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23</description>
+      <docs>https://www.onsemi.com/pub/Collateral/BSS138-D.PDF</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BSS138</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Connector.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Jumper.lib</uri>
+    </library>
+    <library logical="Transistor_FET">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Transistor_FET.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/C4">
+      <node ref="Q4" pin="1"/>
+      <node ref="J2" pin="5"/>
+    </net>
+    <net code="2" name="/C3">
+      <node ref="J2" pin="4"/>
+      <node ref="Q3" pin="1"/>
+    </net>
+    <net code="3" name="/C2">
+      <node ref="J2" pin="3"/>
+      <node ref="Q2" pin="1"/>
+    </net>
+    <net code="4" name="/C0">
+      <node ref="Q0" pin="1"/>
+      <node ref="J2" pin="1"/>
+    </net>
+    <net code="5" name="/C5">
+      <node ref="Q5" pin="1"/>
+      <node ref="J2" pin="6"/>
+    </net>
+    <net code="6" name="/Y7">
+      <node ref="D57" pin="2"/>
+      <node ref="D27" pin="2"/>
+      <node ref="D47" pin="2"/>
+      <node ref="D37" pin="2"/>
+      <node ref="J0" pin="4"/>
+      <node ref="D7" pin="2"/>
+      <node ref="D17" pin="2"/>
+    </net>
+    <net code="7" name="/C1">
+      <node ref="Q1" pin="1"/>
+      <node ref="J2" pin="2"/>
+    </net>
+    <net code="8" name="/Y1">
+      <node ref="J0" pin="1"/>
+      <node ref="D11" pin="2"/>
+      <node ref="D21" pin="2"/>
+      <node ref="D1" pin="2"/>
+      <node ref="D51" pin="2"/>
+      <node ref="D41" pin="2"/>
+      <node ref="D31" pin="2"/>
+    </net>
+    <net code="9" name="/Y4">
+      <node ref="D24" pin="2"/>
+      <node ref="J1" pin="3"/>
+      <node ref="D54" pin="2"/>
+      <node ref="D34" pin="2"/>
+      <node ref="D4" pin="2"/>
+      <node ref="D14" pin="2"/>
+      <node ref="D44" pin="2"/>
+    </net>
+    <net code="10" name="/Y2">
+      <node ref="D22" pin="2"/>
+      <node ref="D32" pin="2"/>
+      <node ref="D2" pin="2"/>
+      <node ref="D12" pin="2"/>
+      <node ref="J1" pin="2"/>
+      <node ref="D42" pin="2"/>
+      <node ref="D52" pin="2"/>
+    </net>
+    <net code="11" name="/X5">
+      <node ref="D55" pin="1"/>
+      <node ref="D56" pin="1"/>
+      <node ref="D57" pin="1"/>
+      <node ref="D53" pin="1"/>
+      <node ref="D50" pin="1"/>
+      <node ref="D51" pin="1"/>
+      <node ref="D52" pin="1"/>
+      <node ref="Q5" pin="3"/>
+      <node ref="D54" pin="1"/>
+    </net>
+    <net code="12" name="/I5">
+      <node ref="TP16" pin="1"/>
+      <node ref="Q5" pin="2"/>
+      <node ref="JP1" pin="1"/>
+    </net>
+    <net code="13" name="/I4">
+      <node ref="JP0" pin="1"/>
+      <node ref="Q4" pin="2"/>
+      <node ref="JP1" pin="2"/>
+    </net>
+    <net code="14" name="/I0-3">
+      <node ref="JP0" pin="2"/>
+      <node ref="Q2" pin="2"/>
+      <node ref="TP14" pin="1"/>
+      <node ref="Q3" pin="2"/>
+      <node ref="Q1" pin="2"/>
+      <node ref="Q0" pin="2"/>
+    </net>
+    <net code="15" name="/Y5">
+      <node ref="D35" pin="2"/>
+      <node ref="D45" pin="2"/>
+      <node ref="D15" pin="2"/>
+      <node ref="D55" pin="2"/>
+      <node ref="J0" pin="3"/>
+      <node ref="D5" pin="2"/>
+      <node ref="D25" pin="2"/>
+    </net>
+    <net code="16" name="/X1">
+      <node ref="D14" pin="1"/>
+      <node ref="D13" pin="1"/>
+      <node ref="D11" pin="1"/>
+      <node ref="Q1" pin="3"/>
+      <node ref="D10" pin="1"/>
+      <node ref="D16" pin="1"/>
+      <node ref="D12" pin="1"/>
+      <node ref="D17" pin="1"/>
+      <node ref="D15" pin="1"/>
+    </net>
+    <net code="17" name="/X0">
+      <node ref="D5" pin="1"/>
+      <node ref="D1" pin="1"/>
+      <node ref="D2" pin="1"/>
+      <node ref="D3" pin="1"/>
+      <node ref="D4" pin="1"/>
+      <node ref="D6" pin="1"/>
+      <node ref="D7" pin="1"/>
+      <node ref="D0" pin="1"/>
+      <node ref="Q0" pin="3"/>
+    </net>
+    <net code="18" name="/Y6">
+      <node ref="D56" pin="2"/>
+      <node ref="D6" pin="2"/>
+      <node ref="D46" pin="2"/>
+      <node ref="D16" pin="2"/>
+      <node ref="J1" pin="4"/>
+      <node ref="D26" pin="2"/>
+      <node ref="D36" pin="2"/>
+    </net>
+    <net code="19" name="/Y0">
+      <node ref="D10" pin="2"/>
+      <node ref="D30" pin="2"/>
+      <node ref="J1" pin="1"/>
+      <node ref="D20" pin="2"/>
+      <node ref="D0" pin="2"/>
+      <node ref="D40" pin="2"/>
+      <node ref="D50" pin="2"/>
+    </net>
+    <net code="20" name="/Y3">
+      <node ref="D53" pin="2"/>
+      <node ref="D43" pin="2"/>
+      <node ref="D33" pin="2"/>
+      <node ref="D23" pin="2"/>
+      <node ref="D13" pin="2"/>
+      <node ref="J0" pin="2"/>
+      <node ref="D3" pin="2"/>
+    </net>
+    <net code="21" name="/X4">
+      <node ref="D43" pin="1"/>
+      <node ref="D44" pin="1"/>
+      <node ref="D46" pin="1"/>
+      <node ref="D42" pin="1"/>
+      <node ref="D41" pin="1"/>
+      <node ref="Q4" pin="3"/>
+      <node ref="D47" pin="1"/>
+      <node ref="D45" pin="1"/>
+      <node ref="D40" pin="1"/>
+    </net>
+    <net code="22" name="/X2">
+      <node ref="D25" pin="1"/>
+      <node ref="D24" pin="1"/>
+      <node ref="D23" pin="1"/>
+      <node ref="D21" pin="1"/>
+      <node ref="D27" pin="1"/>
+      <node ref="Q2" pin="3"/>
+      <node ref="D20" pin="1"/>
+      <node ref="D26" pin="1"/>
+      <node ref="D22" pin="1"/>
+    </net>
+    <net code="23" name="/X3">
+      <node ref="D32" pin="1"/>
+      <node ref="D35" pin="1"/>
+      <node ref="D31" pin="1"/>
+      <node ref="D30" pin="1"/>
+      <node ref="D34" pin="1"/>
+      <node ref="Q3" pin="3"/>
+      <node ref="D37" pin="1"/>
+      <node ref="D36" pin="1"/>
+      <node ref="D33" pin="1"/>
+    </net>
+  </nets>
+</export>

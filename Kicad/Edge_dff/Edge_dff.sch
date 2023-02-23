@@ -1,0 +1,302 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 5
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Connector:TestPoint TP102
+U 1 1 630B011B
+P 9750 1650
+F 0 "TP102" V 9750 1838 50  0000 L CNN
+F 1 " " H 9808 1677 50  0001 L CNN
+F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 9950 1650 50  0001 C CNN
+F 3 "~" H 9950 1650 50  0001 C CNN
+	1    9750 1650
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint TP103
+U 1 1 630B2B7F
+P 9750 1750
+F 0 "TP103" V 9750 1938 50  0000 L CNN
+F 1 " " H 9808 1777 50  0001 L CNN
+F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 9950 1750 50  0001 C CNN
+F 3 "~" H 9950 1750 50  0001 C CNN
+	1    9750 1750
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint TP104
+U 1 1 630B2B89
+P 9750 1850
+F 0 "TP104" V 9750 2038 50  0000 L CNN
+F 1 " " H 9808 1877 50  0001 L CNN
+F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 9950 1850 50  0001 C CNN
+F 3 "~" H 9950 1850 50  0001 C CNN
+	1    9750 1850
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint TP105
+U 1 1 630B2B93
+P 9750 1950
+F 0 "TP105" V 9750 2138 50  0000 L CNN
+F 1 " " H 9808 1977 50  0001 L CNN
+F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 9950 1950 50  0001 C CNN
+F 3 "~" H 9950 1950 50  0001 C CNN
+	1    9750 1950
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint TP106
+U 1 1 630B2B9D
+P 9750 2050
+F 0 "TP106" V 9750 2238 50  0000 L CNN
+F 1 " " H 9808 2077 50  0001 L CNN
+F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 9950 2050 50  0001 C CNN
+F 3 "~" H 9950 2050 50  0001 C CNN
+	1    9750 2050
+	0    1    1    0   
+$EndComp
+$Comp
+L power:Vdrive #PWR0101
+U 1 1 630B4D1A
+P 9750 2250
+F 0 "#PWR0101" H 9550 2100 50  0001 C CNN
+F 1 "Vdrive" V 9765 2378 50  0000 L CNN
+F 2 "" H 9750 2250 50  0001 C CNN
+F 3 "" H 9750 2250 50  0001 C CNN
+	1    9750 2250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:TestPoint TP107
+U 1 1 630C6F2E
+P 9750 2250
+F 0 "TP107" V 9750 2438 50  0000 L CNN
+F 1 " " H 9808 2277 50  0001 L CNN
+F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 9950 2250 50  0001 C CNN
+F 3 "~" H 9950 2250 50  0001 C CNN
+	1    9750 2250
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint TP108
+U 1 1 630C6F38
+P 9750 2350
+F 0 "TP108" V 9750 2538 50  0000 L CNN
+F 1 " " H 9808 2377 50  0001 L CNN
+F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 9950 2350 50  0001 C CNN
+F 3 "~" H 9950 2350 50  0001 C CNN
+	1    9750 2350
+	0    1    1    0   
+$EndComp
+$Comp
+L power:VCC #PWR0102
+U 1 1 630CCF3F
+P 9750 2350
+F 0 "#PWR0102" H 9750 2200 50  0001 C CNN
+F 1 "VCC" V 9765 2477 50  0000 L CNN
+F 2 "" H 9750 2350 50  0001 C CNN
+F 3 "" H 9750 2350 50  0001 C CNN
+	1    9750 2350
+	0    -1   -1   0   
+$EndComp
+Text GLabel 9750 1650 0    50   Input ~ 0
+~OE
+Text GLabel 9750 1950 0    50   Input ~ 0
+~reset
+Text GLabel 9750 1750 0    50   Input ~ 0
+phi2
+Text GLabel 9750 2050 0    50   Input ~ 0
+E
+Text GLabel 9750 1850 0    50   Input ~ 0
+phi1
+$Comp
+L Connector:TestPoint TP112
+U 1 1 63225803
+P 10600 1650
+F 0 "TP112" V 10600 1838 50  0000 L CNN
+F 1 " " H 10658 1677 50  0001 L CNN
+F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 10800 1650 50  0001 C CNN
+F 3 "~" H 10800 1650 50  0001 C CNN
+	1    10600 1650
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint TP113
+U 1 1 6322580D
+P 10600 1750
+F 0 "TP113" V 10600 1938 50  0000 L CNN
+F 1 " " H 10658 1777 50  0001 L CNN
+F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 10800 1750 50  0001 C CNN
+F 3 "~" H 10800 1750 50  0001 C CNN
+	1    10600 1750
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint TP114
+U 1 1 63225817
+P 10600 1850
+F 0 "TP114" V 10600 2038 50  0000 L CNN
+F 1 " " H 10658 1877 50  0001 L CNN
+F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 10800 1850 50  0001 C CNN
+F 3 "~" H 10800 1850 50  0001 C CNN
+	1    10600 1850
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint TP115
+U 1 1 63225821
+P 10600 1950
+F 0 "TP115" V 10600 2138 50  0000 L CNN
+F 1 " " H 10658 1977 50  0001 L CNN
+F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 10800 1950 50  0001 C CNN
+F 3 "~" H 10800 1950 50  0001 C CNN
+	1    10600 1950
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint TP116
+U 1 1 6322582B
+P 10600 2050
+F 0 "TP116" V 10600 2238 50  0000 L CNN
+F 1 " " H 10658 2077 50  0001 L CNN
+F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 10800 2050 50  0001 C CNN
+F 3 "~" H 10800 2050 50  0001 C CNN
+	1    10600 2050
+	0    1    1    0   
+$EndComp
+$Comp
+L power:Vdrive #PWR0105
+U 1 1 63225835
+P 10600 2250
+F 0 "#PWR0105" H 10400 2100 50  0001 C CNN
+F 1 "Vdrive" V 10615 2378 50  0000 L CNN
+F 2 "" H 10600 2250 50  0001 C CNN
+F 3 "" H 10600 2250 50  0001 C CNN
+	1    10600 2250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:TestPoint TP117
+U 1 1 6322583F
+P 10600 2250
+F 0 "TP117" V 10600 2438 50  0000 L CNN
+F 1 " " H 10658 2277 50  0001 L CNN
+F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 10800 2250 50  0001 C CNN
+F 3 "~" H 10800 2250 50  0001 C CNN
+	1    10600 2250
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint TP118
+U 1 1 63225849
+P 10600 2350
+F 0 "TP118" V 10600 2538 50  0000 L CNN
+F 1 " " H 10658 2377 50  0001 L CNN
+F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 10800 2350 50  0001 C CNN
+F 3 "~" H 10800 2350 50  0001 C CNN
+	1    10600 2350
+	0    1    1    0   
+$EndComp
+$Comp
+L power:VCC #PWR0106
+U 1 1 6322585D
+P 10600 2350
+F 0 "#PWR0106" H 10600 2200 50  0001 C CNN
+F 1 "VCC" V 10615 2477 50  0000 L CNN
+F 2 "" H 10600 2350 50  0001 C CNN
+F 3 "" H 10600 2350 50  0001 C CNN
+	1    10600 2350
+	0    -1   -1   0   
+$EndComp
+Text GLabel 10600 1650 0    50   Input ~ 0
+~OE
+Text GLabel 10600 1950 0    50   Input ~ 0
+~reset
+Text GLabel 10600 1750 0    50   Input ~ 0
+phi2
+Text GLabel 10600 2050 0    50   Input ~ 0
+E
+Text GLabel 10600 1850 0    50   Input ~ 0
+phi1
+$Comp
+L Connector:TestPoint TP110
+U 1 1 6327FFA7
+P 9750 2550
+F 0 "TP110" V 9750 2738 50  0000 L CNN
+F 1 " " H 9808 2577 50  0001 L CNN
+F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 9950 2550 50  0001 C CNN
+F 3 "~" H 9950 2550 50  0001 C CNN
+	1    9750 2550
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0104
+U 1 1 6327FFB1
+P 9750 2550
+F 0 "#PWR0104" H 9750 2300 50  0001 C CNN
+F 1 "GND" H 9755 2377 50  0001 C CNN
+F 2 "" H 9750 2550 50  0001 C CNN
+F 3 "" H 9750 2550 50  0001 C CNN
+	1    9750 2550
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint TP120
+U 1 1 6327FFBB
+P 10600 2550
+F 0 "TP120" V 10600 2738 50  0000 L CNN
+F 1 " " H 10658 2577 50  0001 L CNN
+F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm" H 10800 2550 50  0001 C CNN
+F 3 "~" H 10800 2550 50  0001 C CNN
+	1    10600 2550
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0108
+U 1 1 6327FFC5
+P 10600 2550
+F 0 "#PWR0108" H 10600 2300 50  0001 C CNN
+F 1 "GND" H 10605 2377 50  0001 C CNN
+F 2 "" H 10600 2550 50  0001 C CNN
+F 3 "" H 10600 2550 50  0001 C CNN
+	1    10600 2550
+	0    1    1    0   
+$EndComp
+$Sheet
+S 4000 1500 500  500 
+U 632AA7D0
+F0 "zero" 50
+F1 "zero.sch" 50
+$EndSheet
+$Sheet
+S 4000 2500 500  500 
+U 632F46AE
+F0 "one" 50
+F1 "one.sch" 50
+$EndSheet
+$Sheet
+S 4000 3500 500  500 
+U 632F4961
+F0 "two" 50
+F1 "two.sch" 50
+$EndSheet
+$Sheet
+S 4000 4500 500  500 
+U 632F4C23
+F0 "three" 50
+F1 "three.sch" 50
+$EndSheet
+$EndSCHEMATC

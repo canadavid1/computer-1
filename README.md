@@ -6,7 +6,9 @@ This project is mostly intended as a learning experience.
 
 ## Directories
 ### Kicad
-Kicad files for all the PCB's used in the project.
+Kicad files for all the PCBs used in the project.
+
+NOTICE: some of these have some flaws. Do not rely on these working.
 ### Assembly
 Assorted assembly programs, and the corresponding compiler.
 ### Emulator
